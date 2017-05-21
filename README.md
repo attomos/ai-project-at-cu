@@ -1,6 +1,7 @@
 # Setup
 1. Install Python 3.6 with Anaconda https://www.continuum.io/downloads
 2. Download punkt tokenizer `python -c "import nltk; nltk.download('punkt')"`
+3. Download datasets `./download_data.sh`
 
 # Datasets
 http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6010/zip/imm6010.zip
