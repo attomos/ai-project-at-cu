@@ -1,5 +1,4 @@
 from nltk.classify import NaiveBayesClassifier
-from nltk.classify.decisiontree import DecisionTreeClassifier
 from nltk.classify.util import accuracy
 from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
